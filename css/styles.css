@@ -128,8 +128,17 @@ div#about
     box-shadow: rgba(100, 100, 111, 0.2) 5px 7px 29px 0px;
 
   }
-  
 
+/* Footer Başlangıcı */
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url(https://picsum.photos/id/1008/5616/3744);
+    color: white;
+    text-align: center;
+ }
 
 p.main{text-align: left;}
 
