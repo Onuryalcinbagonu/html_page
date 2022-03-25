@@ -17,12 +17,23 @@
     <!--Title Bitiş-->
 
     <!--Css Başlangıç-->
-    <link rel="icon" href="https://placekitten.com/190/150" type="image/gif" sizes="16x16" crossorigin="anonymous">
+    <link rel="icon" href="https://placekitten.com/190/150" type="image/gif" sizes="16x16">
 
-    <link rel="stylesheet" href="css/styles.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--Css Bitiş-->
+
+    <!--Javascript Başlangıç-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $("p.main").fadeToggle(1000);
+            });
+        });
+    </script>
+    <!--Javascript Bitiş-->
 
 
 </head>
@@ -37,11 +48,30 @@
             <p>Software Developer | MIS Specialist | Student at Bursa Uludağ University</p>
         </div>
         <div id="logo"></div>
-        <div id="about"><a href="#" class="fa fa-github"></a>
-            <a href="#" class="fa fa-linkedin"></a>
-            <a href="#" class="fa fa-twitter"></a>
-            <a href="#" class="fa fa-google"></a>
-           
+        <div id="about">
+            <div>
+                <a href="#" class="fa fa-github"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+            </div>
+            <div>
+                <h2>Hakkımda</h2>
+                <p class="main">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae mollitia ad rem
+                    minima ab fugiat omnis reprehenderit incidunt totam accusamus placeat eius quae facere nesciunt
+                    dolorum reiciendis, laboriosam exercitationem aliquam?</p>
+            </div>
+            <div>
+                <h2>Sevdiğim Diziler</h2>
+                <p class="main">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae mollitia ad rem
+                    minima ab fugiat omnis reprehenderit incidunt totam accusamus placeat eius quae facere nesciunt
+                    dolorum reiciendis, laboriosam exercitationem aliquam?</p>
+            </div>
+            <div>
+                <button class="button button1">Yazılar Gitsin / Gelsin</button>
+
+            </div>
+
         </div>
 
     </div>
