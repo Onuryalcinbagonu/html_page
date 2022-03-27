@@ -1,5 +1,5 @@
 # Html Web Sayfası
-Bu repo patika.dev sitesindeki ödev için yapılmıştır.
+Bu repo patika.dev sitesindeki ödev için yapılmıştır.Proje'yi yapan kişi için [tıklayınız](https://app.patika.dev/onuryalcin)
 
 ## Proje Web Site Fotoğrafı
 ---
