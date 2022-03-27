@@ -1,5 +1,5 @@
 # Html Web Sayfası
-Bu repo patika.dev sitesindeki html 1 ve 2 ödevi için yapılmıştır. Geliştirmeler ödevlerdeki bilgilerin üst üste eklenmesiyle gerçekleştirilmiştir.Proje'yi yapan kişi için [tıklayınız](https://app.patika.dev/onuryalcin)
+Bu repo patika.dev sitesindeki html 1, 2 ve 3 ödevi için yapılmıştır. Geliştirmeler ödevlerdeki bilgilerin üst üste eklenmesiyle gerçekleştirilmiştir.Proje'yi yapan kişi için [tıklayınız](https://app.patika.dev/onuryalcin)
 
 ## Proje Web Site Fotoğrafı
 ---
