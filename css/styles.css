@@ -4,6 +4,8 @@ text-align: center;
 background-color: #fff;
 }
 
+.gt{text-align: left;}
+
 main#main{
    
   position: absolute;
