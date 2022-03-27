@@ -4,21 +4,24 @@ text-align: center;
 background-color: #fff;
 }
 
-div#main{
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    top: 0px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+main#main{
    
-    left: 0px;
-    right: 0px;
-    top: 0px;
-
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+ 
 }
 
-div#head
-{
+article#head
+{   
+  left: 0px;
+  right: 0px;
+  top: 0px;
     background-image: url(https://picsum.photos/id/1008/5616/3744);
     color: white;    
     text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px black;
@@ -28,7 +31,7 @@ div#head
     z-index:1;
 }
 
-div#logo
+article#logo
 {
   margin: auto;
   width: 8%;
@@ -44,7 +47,7 @@ div#logo
   top: -45px;       
 }
 
-div#about
+article#about
 {
     margin: auto;
     width: 8%;
